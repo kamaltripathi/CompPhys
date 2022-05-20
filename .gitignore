@@ -1,0 +1,10 @@
+#Ignore the following
+
+IsingModel1D.ipynb  
+IsingModel2D.ipynb  
+IsingModel2D-timeEvolution.ipynb
+
+#MC-02-BuffonsNeedle.ipynb           
+MC-03-RandomWalk-1D.ipynb
+
+mc-randomwalk.py
