@@ -1,5 +1,8 @@
 #Ignore the following
 
+.ipynb_checkpoints/
+
+
 IsingModel1D.ipynb  
 IsingModel2D.ipynb  
 IsingModel2D-timeEvolution.ipynb
